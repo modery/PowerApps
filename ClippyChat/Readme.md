@@ -2,6 +2,8 @@
 
 A simple solution that shows how the OpenAI Connector could be used. Featuring history's most popular virtual assistant, Clippy!
 
+[Download it here: ClippyChat_1_0_0_1.zip](ClippyChat_1_0_0_1.zip)
+
 Start talking to Clippy
 ![Start talking to Clippy](clippy-1.png)
 
